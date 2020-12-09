@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "kjj-kjkj"
+  description: kjkjkj
+spec:
+  type: service
+  lifecycle: experimental
+  owner: praveen.adusumilli

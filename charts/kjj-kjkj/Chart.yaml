@@ -1,0 +1,12 @@
+apiVersion: v2
+appVersion: "1.0"
+description: A Helm chart for kjj-kjkj App
+name: kjj-kjkj
+home: https://github.com/hmcts/kjj-kjkj
+version: 0.0.1
+maintainers:
+  - name: HMCTS kjj team
+dependencies:
+  - name: java
+    version: 3.0.2
+    repository: '@hmctspublic'
